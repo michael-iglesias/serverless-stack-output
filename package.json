@@ -1,5 +1,5 @@
 {
-  "name": "serverless-stack-output",
+  "name": "serverless-stack-output-v2",
   "description": "Serverless plugin to process AWS CloudFormation Stack Output",
   "version": "0.2.4",
   "license": "MIT",
